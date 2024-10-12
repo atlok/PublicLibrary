@@ -23,6 +23,7 @@ go.work.sum
 
 # env file
 .env
-/.idea/library.iml
-/.idea/modules.xml
-/.idea/vcs.xml
+
+.DS_Store
+
+.idea/
